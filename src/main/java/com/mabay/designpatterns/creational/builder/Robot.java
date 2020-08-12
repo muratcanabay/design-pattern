@@ -1,4 +1,4 @@
-package com.mabay.designpatterns.creationalpatterns.builder;
+package com.mabay.designpatterns.creational.builder;
 
 /**
  * Robot

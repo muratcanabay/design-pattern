@@ -1,4 +1,4 @@
-package com.mabay.designpatterns.creationalpatterns.singleton;
+package com.mabay.designpatterns.creational.singleton;
 
 /**
  * SingletonEager

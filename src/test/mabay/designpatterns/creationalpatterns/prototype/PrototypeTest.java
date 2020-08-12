@@ -1,7 +1,7 @@
 package mabay.designpatterns.creationalpatterns.prototype;
 
-import com.mabay.designpatterns.creationalpatterns.prototype.Robot;
-import com.mabay.designpatterns.creationalpatterns.prototype.RobotFactory;
+import com.mabay.designpatterns.creational.prototype.Robot;
+import com.mabay.designpatterns.creational.prototype.RobotFactory;
 import org.junit.Assert;
 import org.junit.Test;
 

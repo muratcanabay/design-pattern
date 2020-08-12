@@ -1,8 +1,8 @@
 package mabay.designpatterns.creationalpatterns.factory;
 
-import com.mabay.designpatterns.creationalpatterns.factory.Bmw;
-import com.mabay.designpatterns.creationalpatterns.factory.Car;
-import com.mabay.designpatterns.creationalpatterns.factory.CarFactory;
+import com.mabay.designpatterns.creational.factory.Bmw;
+import com.mabay.designpatterns.creational.factory.Car;
+import com.mabay.designpatterns.creational.factory.CarFactory;
 import org.junit.Assert;
 import org.junit.Test;
 

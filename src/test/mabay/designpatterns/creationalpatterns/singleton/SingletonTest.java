@@ -1,7 +1,7 @@
 package mabay.designpatterns.creationalpatterns.singleton;
 
-import com.mabay.designpatterns.creationalpatterns.singleton.SingletonEager;
-import com.mabay.designpatterns.creationalpatterns.singleton.SingletonLazy;
+import com.mabay.designpatterns.creational.singleton.SingletonEager;
+import com.mabay.designpatterns.creational.singleton.SingletonLazy;
 import org.junit.Assert;
 import org.junit.Test;
 

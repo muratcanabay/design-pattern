@@ -1,4 +1,4 @@
-package com.mabay.designpatterns.creationalpatterns.factory;
+package com.mabay.designpatterns.creational.factory;
 
 /**
  * CarFactory
