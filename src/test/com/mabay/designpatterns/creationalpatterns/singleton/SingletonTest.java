@@ -1,4 +1,4 @@
-package mabay.designpatterns.creationalpatterns.singleton;
+package com.mabay.designpatterns.creationalpatterns.singleton;
 
 import com.mabay.designpatterns.creational.singleton.SingletonEager;
 import com.mabay.designpatterns.creational.singleton.SingletonLazy;

@@ -1,4 +1,4 @@
-package mabay.designpatterns.creationalpatterns.prototype;
+package com.mabay.designpatterns.creationalpatterns.prototype;
 
 import com.mabay.designpatterns.creational.prototype.Robot;
 import com.mabay.designpatterns.creational.prototype.RobotFactory;

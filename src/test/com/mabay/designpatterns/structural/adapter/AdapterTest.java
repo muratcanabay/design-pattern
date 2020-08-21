@@ -1,4 +1,4 @@
-package mabay.designpatterns.structural;
+package com.mabay.designpatterns.structural.adapter;
 
 import com.mabay.designpatterns.structural.adapter.Human;
 import com.mabay.designpatterns.structural.adapter.Parrot;

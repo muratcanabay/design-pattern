@@ -1,4 +1,4 @@
-package mabay.designpatterns.creationalpatterns.builder;
+package com.mabay.designpatterns.creationalpatterns.builder;
 
 import com.mabay.designpatterns.creational.builder.RobotFactory;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package mabay.designpatterns.creationalpatterns.factory;
+package com.mabay.designpatterns.creationalpatterns.factory;
 
 import com.mabay.designpatterns.creational.factory.Bmw;
 import com.mabay.designpatterns.creational.factory.Car;
