@@ -1,4 +1,4 @@
-Bridge adapter design pattern kullanılır?
+Bridge adapter design pattern ne zaman kullanılır?
 ============================
 
 ![Şema 1](no-bridge-pattern.png)
