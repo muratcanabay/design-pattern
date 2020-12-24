@@ -4,7 +4,7 @@ Java programlama dili kullanarak tasarım desenlerinin gerçek hayata yakın ör
 
 ## Tasarım Desenleri
 
-Aşağıdaki başlıklarda, projede örneklenen tasarım desenleri çeşitleri ve örneklenen tasarım desenleri gösterilmektedir.
+Aşağıdaki başlıklarda, projede örneklenen tasarım desenleri ve çeşitleri gösterilmektedir.
 
 1. **Creational**
      1. Singleton
