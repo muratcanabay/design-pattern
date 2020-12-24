@@ -3,12 +3,6 @@ package com.mabay.designpatterns.creational.builder;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * RobotFactory
- *
- * @author Murat Can Abay
- * @since 17/07/2020
- */
 public class RobotFactory {
 
     static private Set seriNoPool = new HashSet();

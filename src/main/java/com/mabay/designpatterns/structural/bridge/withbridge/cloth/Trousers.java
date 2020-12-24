@@ -3,12 +3,6 @@ package com.mabay.designpatterns.structural.bridge.withbridge.cloth;
 import com.mabay.designpatterns.structural.bridge.withbridge.Cloth;
 import com.mabay.designpatterns.structural.bridge.withbridge.Gender;
 
-/**
- * Trousers
- *
- * @author Murat Can Abay
- * @since 21/08/2020
- */
 public class Trousers extends Cloth {
 
     private Gender gender;

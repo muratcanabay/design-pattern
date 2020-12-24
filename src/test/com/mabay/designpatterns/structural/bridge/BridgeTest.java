@@ -4,12 +4,6 @@ import com.mabay.designpatterns.structural.bridge.withbridge.cloth.Trousers;
 import com.mabay.designpatterns.structural.bridge.withbridge.gender.Man;
 import org.junit.Test;
 
-/**
- * BridgeTest
- *
- * @author Murat Can Abay
- * @since 21/08/2020
- */
 public class BridgeTest {
 
     @Test

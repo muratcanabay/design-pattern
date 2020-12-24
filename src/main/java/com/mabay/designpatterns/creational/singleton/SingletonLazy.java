@@ -1,11 +1,5 @@
 package com.mabay.designpatterns.creational.singleton;
 
-/**
- * SingletonLazy
- *
- * @author Murat Can Abay
- * @since 17/07/2020
- */
 public class SingletonLazy {
 
     private static SingletonLazy singletonLazy;

@@ -5,13 +5,6 @@ import com.mabay.designpatterns.creational.singleton.SingletonLazy;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * SingletonTest
- *
- * @author Murat Can Abay
- * @since 17/07/2020
- */
-
 public class SingletonTest {
 
     @Test

@@ -3,12 +3,6 @@ package com.mabay.designpatterns.creationalpatterns.builder;
 import com.mabay.designpatterns.creational.builder.RobotFactory;
 import org.junit.Test;
 
-/**
- * RobotTest
- *
- * @author Murat Can Abay
- * @since 17/07/2020
- */
 public class RobotTest {
 
     @Test

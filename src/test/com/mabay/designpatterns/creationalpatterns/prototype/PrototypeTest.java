@@ -5,12 +5,6 @@ import com.mabay.designpatterns.creational.prototype.RobotFactory;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * PrototypeTest
- *
- * @author Murat Can Abay
- * @since 10/08/2020
- */
 public class PrototypeTest {
 
     @Test

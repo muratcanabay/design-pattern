@@ -6,12 +6,6 @@ import com.mabay.designpatterns.creational.factory.CarFactory;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- * FactoryTest
- *
- * @author Murat Can Abay
- * @since 17/07/2020
- */
 public class FactoryTest {
 
     @Test

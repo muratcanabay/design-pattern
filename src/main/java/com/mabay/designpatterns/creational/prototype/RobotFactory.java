@@ -1,11 +1,5 @@
 package com.mabay.designpatterns.creational.prototype;
 
-/**
- * RobotFactory
- *
- * @author Murat Can Abay
- * @since 10/08/2020
- */
 public class RobotFactory {
 
     private static RobotFactory robotFactory;

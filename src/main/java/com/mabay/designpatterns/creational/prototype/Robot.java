@@ -1,11 +1,5 @@
 package com.mabay.designpatterns.creational.prototype;
 
-/**
- * Robot
- *
- * @author Murat Can Abay
- * @since 10/08/2020
- */
 public class Robot implements Cloneable {
 
     private Long id;

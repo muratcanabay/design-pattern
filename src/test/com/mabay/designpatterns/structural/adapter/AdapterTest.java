@@ -4,12 +4,6 @@ import com.mabay.designpatterns.structural.adapter.Human;
 import com.mabay.designpatterns.structural.adapter.Parrot;
 import org.junit.Test;
 
-/**
- * AdapterTest
- *
- * @author Murat Can Abay
- * @since 12/08/2020
- */
 public class AdapterTest {
 
     @Test

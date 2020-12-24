@@ -1,11 +1,5 @@
 package com.mabay.designpatterns.creational.builder;
 
-/**
- * Robot
- *
- * @author Murat Can Abay
- * @since 17/07/2020
- */
 public class Robot {
 
     private Long en;
